@@ -13,6 +13,7 @@ A sleek, anime-vibe inspired todo list built using **React**. This version offer
 ### 🔗 Live Demo
 
 👉 [Check it out on GitHub Pages](# 📝 Todo List (React Version)
+👉 [Check it out on GitHub Pages](https://mayurargade.github.io/Todo-List-React/)
 
 A sleek, anime-vibe inspired todo list built using **React**. This version offers dynamic state management, component-based structure, and a stylish UI with gradients and animations.
 
@@ -23,10 +24,6 @@ A sleek, anime-vibe inspired todo list built using **React**. This version offer
 - Smooth UI with anime-style color gradients
 - Responsive layout
 - Built with React + Vite
-
-### 🔗 Live Demo
-
-👉 [Check it out on GitHub Pages](https://mayurargade.github.io/Todo-List-React/)
 
 ### 🛠️ Built With
 
