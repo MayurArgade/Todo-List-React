@@ -1,12 +1,69 @@
-# React + Vite
+# 📝 Todo List (React Version)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, anime-vibe inspired todo list built using **React**. This version offers dynamic state management, component-based structure, and a stylish UI with gradients and animations.
 
-Currently, two official plugins are available:
+### 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add and remove tasks
+- Mark tasks as completed
+- Smooth UI with anime-style color gradients
+- Responsive layout
+- Built with React + Vite
 
-## Expanding the ESLint configuration
+### 🔗 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [Check it out on GitHub Pages](# 📝 Todo List (React Version)
+
+A sleek, anime-vibe inspired todo list built using **React**. This version offers dynamic state management, component-based structure, and a stylish UI with gradients and animations.
+
+### 🌟 Features
+
+- Add and remove tasks
+- Mark tasks as completed
+- Smooth UI with anime-style color gradients
+- Responsive layout
+- Built with React + Vite
+
+### 🔗 Live Demo
+
+👉 [Check it out on GitHub Pages](https://mayurargade.github.io/Todo-List-React/)
+
+### 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- HTML5 + CSS3
+- Anime-inspired gradient theme
+
+
+### 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- HTML5 + CSS3
+- Anime-inspired gradient theme
+
+
+### 📂 Folder Structure
+
+Todo-List-React/
+├── public/
+├── src/
+│ ├── components/
+│ └── App.jsx
+├── docs/ # GitHub Pages build folder
+│ └── index.html
+├── package.json
+└── README.md
+
+### 🚀 Getting Started
+
+```bash
+git clone https://github.com/MayurArgade/Todo-List-React.git
+cd Todo-List-React
+npm install
+npm run dev
+
+✨ Author
+Mayur Argade
+🔗 GitHub Profile
